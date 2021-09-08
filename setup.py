@@ -15,3 +15,5 @@ with open("README.md", "r") as fh:
 
         packages=find_packages()
     )
+
+## classes: geofrences, edges
